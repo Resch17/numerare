@@ -1,0 +1,19 @@
+{
+  "name": "numerare",
+  "version": "0.0.3",
+  "description": "TS functions to convert between Roman and Arabic numerals",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "roman",
+    "numerals"
+  ],
+  "author": "Aaron Resch",
+  "license": "MIT",
+  "types": "dist/index.d.ts",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
