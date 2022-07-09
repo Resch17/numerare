@@ -1,3 +1,4 @@
+# Numerare
 A light TS library for converting to and from Arabic and Roman numerals. Supports numeric values between 1 and 3999.
 
 ## Install
